@@ -1,0 +1,15 @@
+Cara menggunakan program SIMULASI PROGRAM PEMBUAT KARIKATUR BEREKSTENSI HTML by python
+- Masukan foto/gambar yang ingin diubah menjadi karikatur ke dalam folder 'img' yang sudah tersedia
+- Hasil foto yang telah diubah akan disimpan ke dalam folder 'output' yang sudah tersedia
+- Hasil karikatur akan memiliki ekstensi html bukan jpg/png atau lain sebagainya
+- Gambar yang sudah dibuat karikatur di folder 'img' bisa dihapus setelah pembuatan
+
+
+
+
+
+
+
+
+
+copyright Muhammad Yusuf 2021
